@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Therapy Session",
+      "day": "May 17th at 3:30pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Meeting at Ngong Race Course",
+      "day": "July 27th at 10:30am",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Call of Duty World War competition",
+      "day": "June 7th at 8:30pm",
+      "reminder": false
+    },
+    {
+      "text": "dssdv",
+      "day": "fafre",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
